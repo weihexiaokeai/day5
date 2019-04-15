@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-image: none;
+    text-decoration: none
+}
+div{
+    width: 500px;
+    height: 500px;
+    background: orange;
+    p{
+        width: 200px;
+        height: 200px;
+        background: pink;
+        span{
+            color: white;
+            font-size: 20px;
+
+        }
+    }
+
+}
